@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @CHANDAN727
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning Master
+- 💞️ I’m looking to collaborate on Myself
+- 📫 How to reach me chandanrp6@gmail.com
 
-<!---
-CHANDAN727/CHANDAN727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
